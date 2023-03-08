@@ -86,7 +86,6 @@ ul li.active a{
 .Definition a{
     color: #fff;
     text-decoration: none;
-    border: 1px solid transparent;
     padding: 10px 20px;
 }
 
