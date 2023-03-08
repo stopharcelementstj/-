@@ -76,6 +76,19 @@ ul li.active a{
     font-size: 40px;
 }
 
+.Definition{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Definition a{
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+
 .boutton{
     position: absolute;
     top: 60%;
